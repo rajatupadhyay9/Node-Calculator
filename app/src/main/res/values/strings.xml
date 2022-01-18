@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Node Calculator</string>
+    <string name="welcome">Welcome !</string>
+    <string name="select_operation">Select Operation :</string>
+    <string name="operand_1">operand 1</string>
+    <string name="operand_2">operand 2</string>
+    <string name="evaluate">Evaluate</string>
+    <string name="history">History</string>
+</resources>
